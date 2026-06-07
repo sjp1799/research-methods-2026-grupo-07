@@ -3,7 +3,7 @@ Proyecto de investigación - Metodología de la Investigación 2026
 
 ## Tema de investigación
 
-Impacto de la transformación digital en el fortalecimiento de la ciberseguridad del Sistema Financiero Hondureño.
+Evaluación de la madurez de ciberseguridad del Sistema Financiero Hondureño frente a la transformación digital, basada en estándares internacionales y mejores prácticas
 
 ## Descripción
 
