@@ -5,7 +5,8 @@ Proyecto de investigación - Metodología de la Investigación 2026
 
 ##idea Inicial: 
 Evaluación de la madurez de ciberseguridad del Sistema Financiero Hondureño frente a la transformación digital, basada en estándares internacionales y mejores prácticas
-#Idea Final:
+
+##Idea Final:
 FRAMEWORK DE EVALUACIÓN DE MADUREZ DE CIBERSEGURIDAD PARA EL SISTEMA FINANCIERO HONDUREÑO ALINEADO CON CNBS Y ESTÁNDARES INTERNACIONALES
 
 ## Descripción
